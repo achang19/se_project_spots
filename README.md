@@ -11,7 +11,7 @@ The page was built using semantic HTML and modern CSS techniques, including Flex
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
 **GitHub Pages**  
-[https://your-username.github.io/spots/](https://your-username.github.io/spots/)
+https://achang19.github.io/se_project_spots/
 
 **Project Pitch Video**
 
