@@ -15,4 +15,4 @@ https://achang19.github.io/se_project_spots/
 
 **Project Pitch Video**
 
-Check out [this video](ADD_LINK_HERE), where I describe my project and some challenges I faced while building it.
+Check out [this video](https://www.loom.com/share/95b59542359c44309a30417f9e1d701c), where I describe my project and some challenges I faced while building it.
