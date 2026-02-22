@@ -24,6 +24,7 @@
   background-color: transparent;
   opacity: 40%;
   margin: 12px 0 0;
+  padding: 0;
 }
 
 .card__like-btn:hover {
