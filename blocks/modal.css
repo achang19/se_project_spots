@@ -129,7 +129,7 @@
 
 .modal__container_type_image {
   background: transparent;
-  max-width: min(992px, calc(100vw - 120px));
+  max-width: min(992px, calc(100vw - 32px));
   width: fit-content;
   padding: 0;
   box-sizing: border-box;
@@ -161,7 +161,6 @@
   margin: 12px 0 0;
   padding: 4px 8px;
   display: inline-flex;
-  padding: 4px 8px;
   justify-content: center;
   align-items: center;
 }
@@ -192,11 +191,6 @@
     height: 30px;
   }
 
-  .modal__close-icon {
-    width: 30px;
-    height: 30px;
-  }
-
   .modal__label {
     font-size: 14px;
   }
@@ -209,5 +203,10 @@
   .modal__submit-btn {
     padding: 14px 24px;
     font-size: 14px;
+  }
+
+  .modal__caption {
+    font-size: 16px;
+    line-height: 22px;
   }
 }

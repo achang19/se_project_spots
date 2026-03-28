@@ -75,6 +75,12 @@
   margin-left: auto;
   border-radius: 8px;
   height: 52px;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+.profile__add-btn:hover {
+  opacity: 0.9;
 }
 
 @media screen and (max-width: 627px) {
