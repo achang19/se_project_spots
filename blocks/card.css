@@ -15,12 +15,6 @@
     box-shadow 0.2s ease;
 }
 
-.card__image:hover,
-.card__image:focus {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
 .card__content {
   display: flex;
   align-items: center;

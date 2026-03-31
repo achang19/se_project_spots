@@ -108,7 +108,7 @@
   color: #fcf5e5;
   border: none;
   border-radius: 8px;
-  padding: 18px 32px;
+  padding: 18px 0;
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -178,7 +178,6 @@
 
 @media screen and (max-width: 480px) {
   .modal__container {
-    max-width: 320px;
     padding: 24px 20px;
   }
 
@@ -201,8 +200,9 @@
   }
 
   .modal__submit-btn {
-    padding: 14px 24px;
     font-size: 14px;
+    max-width: none;
+    width: 100%;
   }
 
   .modal__caption {
